@@ -1,0 +1,2 @@
+include 'drag-sort-listview'
+project(':drag-sort-listview').projectDir = new File('./library')
