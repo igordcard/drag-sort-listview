@@ -1,2 +1,2 @@
-include 'drag-sort-listview'
-project(':drag-sort-listview').projectDir = new File('./library')
+include ':demo', ':drag-sort-listview'
+include ':library', ':drag-sort-listview'
